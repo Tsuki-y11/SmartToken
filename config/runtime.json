@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "ports": {
+    "machine_learning": 9101,
+    "demo": 9200,
+    "planning": 9202,
+    "web": 6106
+  },
+  "assets": {
+    "learned": "artifacts/task_decomposition/learned_decomposition_v1.joblib",
+    "predictor": "deep_learning/artifacts/token_predictor/selected",
+    "registry": "artifacts/model_registry/historical50_registry_v2.json",
+    "evidence": "model_evaluation/data/catalog/historical50_web_evidence.json",
+    "encoder": "deep_learning/artifacts/encoder",
+    "tokenizer": "deep_learning/artifacts/qwen-tokenizer",
+    "catalog": "deep_learning/data/dl/catalog.json"
+  },
+  "sha256": {
+    "learned": "ac3f1e343a575323f0dd8db853b0ef1c0d889dc05cbea56345c38a3ea0f87186",
+    "registry": "90c8a8f00e780944b2a1c9b7e9e2d74eaa412a7eb0e1d874e2e713598e97edf3",
+    "evidence": "20f253c121bbe3c551993773ff4b08baa5f0d6602cc04392b23588ecc037f69b"
+  },
+  "semantic_planner": {
+    "enabled": true,
+    "endpoint": "http://127.0.0.1:11434",
+    "model": "qwen3:8b"
+  }
+}
