@@ -1,0 +1,6 @@
+{"request_id":"demo-01","group_id":"demo-01","original_prompt":"解释光合作用。"}
+{"request_id":"demo-02","group_id":"demo-02","original_prompt":"2024年销售额100万元，2025年120万元。计算增长率，再用中文解释变化。"}
+{"request_id":"demo-03","group_id":"demo-03","original_prompt":"Read the supplied values 10,20,30 and calculate their average, then explain the result."}
+{"request_id":"demo-04","group_id":"demo-04","original_prompt":"首先列出三个城市；然后计算城市数量；最后只翻译第一步的城市名，不使用第二步结果。"}
+{"request_id":"demo-05","group_id":"demo-05","original_prompt":"首先计算2+2；然后解释计算结果；最后只输出JSON。"}
+{"request_id":"demo-06","group_id":"demo-06","original_prompt":"编写一个生成图表的Python函数，只输出代码，不运行程序，也不要实际生成图片。"}

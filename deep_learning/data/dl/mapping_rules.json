@@ -1,0 +1,146 @@
+{
+  "version": "dataset_proxy_0.5.1_v2",
+  "categories": {
+    "llmrouterbench": {
+      "aime": [
+        "reasoning",
+        "math"
+      ],
+      "arc-agi": [
+        "reasoning"
+      ],
+      "arcc": [
+        "reasoning",
+        "knowledge"
+      ],
+      "arenahard": null,
+      "arenahard_coding": [
+        "coding"
+      ],
+      "arenahard_creative_writing": null,
+      "arenahard_math": [
+        "reasoning",
+        "math"
+      ],
+      "bbh": [
+        "reasoning"
+      ],
+      "emorynlp": [
+        "reasoning"
+      ],
+      "finqa": [
+        "reasoning",
+        "knowledge",
+        "math"
+      ],
+      "gpqa": [
+        "reasoning",
+        "knowledge"
+      ],
+      "hle": [
+        "knowledge"
+      ],
+      "humaneval": [
+        "coding"
+      ],
+      "kandk": [
+        "reasoning"
+      ],
+      "korbench": [
+        "reasoning"
+      ],
+      "livecodebench": [
+        "coding",
+        "reasoning"
+      ],
+      "livemathbench": [
+        "reasoning",
+        "math"
+      ],
+      "math500": [
+        "reasoning",
+        "math"
+      ],
+      "mathbench": [
+        "math"
+      ],
+      "mbpp": [
+        "coding"
+      ],
+      "medqa": [
+        "knowledge"
+      ],
+      "meld": [
+        "reasoning"
+      ],
+      "mmlupro": [
+        "reasoning",
+        "knowledge"
+      ],
+      "simpleqa": [
+        "knowledge"
+      ],
+      "swe-bench": [
+        "coding"
+      ],
+      "tau2": [
+        "agents"
+      ],
+      "winogrande": [
+        "reasoning"
+      ]
+    },
+    "xroutebench": {
+      "aime_2020_2024": [
+        "reasoning",
+        "math"
+      ],
+      "arc_challenge": [
+        "reasoning",
+        "knowledge"
+      ],
+      "boolq": [
+        "knowledge"
+      ],
+      "commonsense_qa": [
+        "reasoning",
+        "knowledge"
+      ],
+      "gsm8k": [
+        "math"
+      ],
+      "hellaswag": [
+        "reasoning"
+      ],
+      "human_eval": [
+        "coding"
+      ],
+      "math": [
+        "reasoning",
+        "math"
+      ],
+      "mbpp": [
+        "coding"
+      ],
+      "mmlu": [
+        "knowledge"
+      ],
+      "mmlu_pro": [
+        "reasoning",
+        "knowledge"
+      ],
+      "openbook_qa": [
+        "reasoning",
+        "knowledge"
+      ],
+      "squad": [
+        "knowledge"
+      ]
+    }
+  },
+  "references": {
+    "llmrouterbench": "https://github.com/ynulihao/LLMRouterBench/blob/main/evaluation/README.md",
+    "xroutebench": "https://huggingface.co/datasets/ulab-ai/xRouteBench/blob/main/README.md",
+    "korbench": "https://github.com/KOR-Bench/KOR-Bench"
+  }
+}

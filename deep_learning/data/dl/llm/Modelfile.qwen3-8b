@@ -1,0 +1,2 @@
+FROM /root/autodl-tmp/smarttoken/llm/models/source/Qwen3-8B-Q4_K_M.gguf
+PARAMETER num_ctx 8192

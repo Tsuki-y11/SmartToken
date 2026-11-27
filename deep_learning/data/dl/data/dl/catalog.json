@@ -1,0 +1,353 @@
+[
+  {
+    "model_id": "claude-sonnet-4",
+    "display_name": "claude-sonnet-4",
+    "pools": [
+      "llmrouter_flagship"
+    ]
+  },
+  {
+    "model_id": "cogito-v1-preview-llama-8b",
+    "display_name": "cogito-v1-preview-llama-8B",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "cogito-v2-1-671b",
+    "display_name": "cogito-v2-1-671b",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "deephermes-3-llama-3-8b-preview",
+    "display_name": "DeepHermes-3-Llama-3-8B-Preview",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "deepseek-r1-0528",
+    "display_name": "deepseek-r1-0528",
+    "pools": [
+      "llmrouter_flagship"
+    ]
+  },
+  {
+    "model_id": "deepseek-r1-0528-qwen3-8b",
+    "display_name": "DeepSeek-R1-0528-Qwen3-8B",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "deepseek-r1-distill-qwen-7b",
+    "display_name": "DeepSeek-R1-Distill-Qwen-7B",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "deepseek-v3-0324",
+    "display_name": "deepseek-v3-0324",
+    "pools": [
+      "llmrouter_flagship"
+    ]
+  },
+  {
+    "model_id": "deepseek-v3.1",
+    "display_name": "deepseek-v3.1",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "deepseek-v3.1-terminus",
+    "display_name": "deepseek-v3.1-terminus",
+    "pools": [
+      "llmrouter_flagship"
+    ]
+  },
+  {
+    "model_id": "fin-r1",
+    "display_name": "Fin-R1",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "gemini-2.5-flash",
+    "display_name": "gemini-2.5-flash",
+    "pools": [
+      "llmrouter_flagship"
+    ]
+  },
+  {
+    "model_id": "gemini-2.5-pro",
+    "display_name": "gemini-2.5-pro",
+    "pools": [
+      "llmrouter_flagship"
+    ]
+  },
+  {
+    "model_id": "gemma-2-9b-it",
+    "display_name": "gemma-2-9b-it",
+    "pools": [
+      "llmrouter_small",
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "glm-4-9b-chat",
+    "display_name": "glm-4-9b-chat",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "glm-4.6",
+    "display_name": "glm-4.6",
+    "pools": [
+      "llmrouter_flagship"
+    ]
+  },
+  {
+    "model_id": "glm-z1-9b-0414",
+    "display_name": "GLM-Z1-9B-0414",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "gpt-5",
+    "display_name": "gpt-5",
+    "pools": [
+      "llmrouter_flagship"
+    ]
+  },
+  {
+    "model_id": "gpt-5-chat",
+    "display_name": "gpt-5-chat",
+    "pools": [
+      "llmrouter_flagship"
+    ]
+  },
+  {
+    "model_id": "gpt-oss-120b",
+    "display_name": "gpt-oss-120b",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "gpt-oss-20b",
+    "display_name": "gpt-oss-20b",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "granite-3.3-8b-instruct",
+    "display_name": "granite-3.3-8b-instruct",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "intern-s1",
+    "display_name": "intern-s1",
+    "pools": [
+      "llmrouter_flagship"
+    ]
+  },
+  {
+    "model_id": "intern-s1-mini",
+    "display_name": "Intern-S1-mini",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "internlm3-8b-instruct",
+    "display_name": "internlm3-8b-instruct",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "kimi-k2-0905",
+    "display_name": "kimi-k2-0905",
+    "pools": [
+      "llmrouter_flagship"
+    ]
+  },
+  {
+    "model_id": "llama-3-8b-instruct-lite",
+    "display_name": "llama-3-8b-instruct-lite",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "llama-3.1-8b-instruct",
+    "display_name": "Llama-3.1-8B-Instruct",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "llama-3.1-8b-ultramedical",
+    "display_name": "Llama-3.1-8B-UltraMedical",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "llama-3.1-nemotron-nano-8b-v1",
+    "display_name": "Llama-3.1-Nemotron-Nano-8B-v1",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "llama-3.3-70b-instruct-turbo",
+    "display_name": "llama-3.3-70b-instruct-turbo",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "llama-4-maverick",
+    "display_name": "llama-4-maverick",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "llama3-70b-instruct",
+    "display_name": "llama3-70b-instruct",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "mimo-7b-rl-0530",
+    "display_name": "MiMo-7B-RL-0530",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "minicpm4.1-8b",
+    "display_name": "MiniCPM4.1-8B",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "mistral-7b-instruct-v0.3",
+    "display_name": "mistral-7b-instruct-v0.3",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "mistral-small-3-24b-instruct",
+    "display_name": "mistral-small-3-24b-instruct",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "mixtral-8x22b-instruct-v0.1",
+    "display_name": "mixtral-8x22b-instruct-v0.1",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "mixtral-8x7b-instruct-v0.1",
+    "display_name": "mixtral-8x7b-instruct-v0.1",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "nvidia-nemotron-nano-9b-v2",
+    "display_name": "NVIDIA-Nemotron-Nano-9B-v2",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "openthinker3-7b",
+    "display_name": "OpenThinker3-7B",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "qwen2.5-7b-instruct",
+    "display_name": "qwen2.5-7b-instruct",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "qwen2.5-7b-instruct-turbo",
+    "display_name": "qwen2.5-7b-instruct-turbo",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "qwen2.5-coder-7b-instruct",
+    "display_name": "Qwen2.5-Coder-7B-Instruct",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "qwen3-235b-a22b-2507",
+    "display_name": "qwen3-235b-a22b-2507",
+    "pools": [
+      "llmrouter_flagship"
+    ]
+  },
+  {
+    "model_id": "qwen3-235b-a22b-thinking-2507",
+    "display_name": "qwen3-235b-a22b-thinking-2507",
+    "pools": [
+      "llmrouter_flagship"
+    ]
+  },
+  {
+    "model_id": "qwen3-8b",
+    "display_name": "Qwen3-8B",
+    "pools": [
+      "llmrouter_small"
+    ]
+  },
+  {
+    "model_id": "qwen3-coder-next",
+    "display_name": "qwen3-coder-next",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "qwen3-next-80b-a3b-instruct",
+    "display_name": "qwen3-next-80b-a3b-instruct",
+    "pools": [
+      "xroute"
+    ]
+  },
+  {
+    "model_id": "rnj-1-instruct",
+    "display_name": "rnj-1-instruct",
+    "pools": [
+      "xroute"
+    ]
+  }
+]
